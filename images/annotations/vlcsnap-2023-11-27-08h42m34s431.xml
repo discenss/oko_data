@@ -1,0 +1,35 @@
+<annotation>
+    <folder>img</folder>
+    <filename>vlcsnap-2023-11-27-08h42m34s431.jpg</filename>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>329.742981</xmin>
+            <ymin>364.494446</ymin>
+            <xmax>717.439819</xmax>
+            <ymax>697.031921</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>591.538269</xmin>
+            <ymin>1.998624</ymin>
+            <xmax>866.323425</xmax>
+            <ymax>297.587524</ymax>
+        </bndbox>
+    </object>
+</annotation>

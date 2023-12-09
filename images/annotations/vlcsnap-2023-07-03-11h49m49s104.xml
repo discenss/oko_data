@@ -1,0 +1,22 @@
+<annotation>
+    <folder>img</folder>
+    <filename>vlcsnap-2023-07-03-11h49m49s104.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>barcounter</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>355.815094</xmin>
+            <ymin>426.605591</ymin>
+            <xmax>1676.127075</xmax>
+            <ymax>693.358398</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,22 @@
+<annotation>
+    <folder>img</folder>
+    <filename>vlcsnap-2023-11-26-12h41m44s504.jpg</filename>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>openedcash</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>745.417969</xmin>
+            <ymin>449.376404</ymin>
+            <xmax>854.332825</xmax>
+            <ymax>529.265259</ymax>
+        </bndbox>
+    </object>
+</annotation>

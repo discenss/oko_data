@@ -1,0 +1,22 @@
+<annotation>
+    <folder>img</folder>
+    <filename>vlcsnap-2023-09-26-16h17m21s066.jpg</filename>
+    <size>
+        <width>1329</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>358.730621</xmin>
+            <ymin>477.337494</ymin>
+            <xmax>579.564331</xmax>
+            <ymax>603.162476</ymax>
+        </bndbox>
+    </object>
+</annotation>
